@@ -24,3 +24,11 @@ Para poder utilizar los componentes de [Ant Desing](https://ant.design/component
 ```bash
 npm install antd
 ```
+
+
+
+```bash
+var cso = 10
+npm install antd
+```
+
