@@ -1,30 +1,27 @@
-# Mi receta para aplicaciones React
-Mi receta para aplicaciones React indica los pasos a seguir para crear una aplicación React que utiliza Ant Desing,
+# Mi receta para aplicaciones React usando componentes de Ant Design 
+Mi receta para aplicaciones React indica los pasos a seguir para crear una aplicación React combinándola con los componentes de Ant Design.
 
-## Requisitos 
+## Requisitos a instalar:
 
-+ 1- Instalar Node JS
++ 1- Instalar Node JS: 
 https://nodejs.org/es/download/
-+ 2- tener el create-react-app 
++ 2- Instalar React, en la consola: 
 ```bash
 npm install create-react-app -g
 ```
++ 3- Instalar Ant Design, en la consola:
+
+```bash
+npm install antd -s
+```
+## Uso de componentes de [Ant Design](https://ant.design/components/overview/) 
 
 
-## Pasos
-+ 1- Creamos una nuva aplicacion con el nombre NOMBRE_APLICACION mediante `create-react-app
+
++ 1- Creamos una nueva aplicacion con el comando create-react-app seguido por el nombre, NOMBRE_APLICACION 
 ```bash
 create-react-app [NOMBRE_APLICACION]
 ```
-+ 2- Instalar antd usando npm install antd
-
-## Instalar Ant Design
-Para poder utilizar los componentes de [Ant Desing](https://ant.design/components/overview/) instalamos ant design ejecutamos en la consola el comando
-
-```bash
-npm install antd
-```
-
 
 
 ```bash
