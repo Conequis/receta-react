@@ -1,5 +1,5 @@
 # Mi receta para aplicaciones React
-Esta es mi receta para una aplicación React que utiliza Ant Desing.
+Mi receta para aplicaciones React indica los pasos a seguir para crear una aplicación React que utiliza Ant Desing,
 
 ## Requisitos 
 
@@ -16,7 +16,7 @@ npm install create-react-app -g
 ```bash
 create-react-app [NOMBRE_APLICACION]
 ```
-+ 2- instalar ant usan npm install antd
++ 2- Instalar antd usando npm install antd
 
 ## Instalar Ant Design
 Para poder utilizar los componentes de [Ant Desing](https://ant.design/components/overview/) instalamos ant design ejecutamos en la consola el comando
@@ -24,4 +24,3 @@ Para poder utilizar los componentes de [Ant Desing](https://ant.design/component
 ```bash
 npm install antd
 ```
-aaa
