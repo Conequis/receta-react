@@ -9,7 +9,7 @@ https://nodejs.org/es/download/
 ```bash
 npm install create-react-app -g
 ```
-+ 3- Instalar Ant Design, en la consola:
++ 3- Instalar Ant Design,0 en la consola:
 
 ```bash
 npm install antd -s
@@ -18,7 +18,7 @@ npm install antd -s
 
 
 
-+ 1- Creamos una nueva aplicacion con el comando create-react-app seguido por el nombre, NOMBRE_APLICACION 
++ 1- Creamos una nueva aplicación con el comando create-react-app seguido por el nombre, NOMBRE_APLICACION 
 ```bash
 create-react-app [NOMBRE_APLICACION]
 ```
